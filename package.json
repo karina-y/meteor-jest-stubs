@@ -1,5 +1,5 @@
 {
-  "name": "karina-y/meteor-jest-stubs",
+  "name": "@karina-y/meteor-jest-stubs",
   "version": "2.1.0",
   "description": "Stubs for using Jest to unit test Meteor modules",
   "main": "lib/meteor/meteor.js",
