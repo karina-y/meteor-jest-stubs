@@ -1,3 +1,6 @@
+# fork notes
+This is a fork of meteor-jest-stubs to add in other meteor packages I use that aren't included in the original.
+
 # meteor-jest-stubs
 This is a supported fork of [orangecms/jest-meteor-stubs](https://github.com/orangecms/jest-meteor-stubs). Please note that, the package name is slightly different than the original one:
 
