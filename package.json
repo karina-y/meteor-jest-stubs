@@ -1,6 +1,6 @@
 {
   "name": "@karina-y/meteor-jest-stubs",
-  "version": "2.1.0",
+  "version": "2.2.1",
   "description": "Stubs for using Jest to unit test Meteor modules",
   "main": "lib/meteor/meteor.js",
   "scripts": {
@@ -21,6 +21,10 @@
     "url": "https://github.com/karina-y/meteor-jest-stubs/issues"
   },
   "homepage": "https://github.com/karina-y/meteor-jest-stubs#readme",
+  "babel": {
+    "presets": ["@babel/preset-react", "@babel/preset-env"],
+    "plugins": ["@babel/plugin-transform-react-jsx"]
+  },
   "peerDependencies": {
     "jest-cli": "23.6.0"
   },
